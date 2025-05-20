@@ -1,2 +1,16 @@
-# clo_app
-Flutter clothing e-commerce app using Firebase Firestore for real-time product data and BLoC for state management. Features men's/women's/children's apparel with category filtering (t-shirts, jeans, etc). Displays products in responsive grid with detailed views.
+# rescoff
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

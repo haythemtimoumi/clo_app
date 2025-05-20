@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "rc-base-b3bef",
+    "firebase use --add": "registre-a4b9e"
+  },
+  "targets": {},
+  "etags": {}
+}
