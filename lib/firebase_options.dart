@@ -41,13 +41,13 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBKA14iVnA76nXba7HPULdRt7pgoujPHp8',
-    appId: '1:755627002063:web:74bc28912fe76dec024fba',
+    apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    appId: '1:xxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     messagingSenderId: '755627002063',
-    projectId: 'registre-a4b9e',
-    authDomain: 'registre-a4b9e.firebaseapp.com',
+    projectId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    authDomain: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     databaseURL:
-        'https://registre-a4b9e-default-rtdb.europe-west1.firebasedatabase.app',
+        'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     storageBucket: 'registre-a4b9e.appspot.com',
     measurementId: 'G-VF3K2TV5YV',
   );
@@ -58,41 +58,41 @@ class DefaultFirebaseOptions {
     messagingSenderId: '755627002063',
     projectId: 'registre-a4b9e',
     databaseURL:
-        'https://registre-a4b9e-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'registre-a4b9e.appspot.com',
+        'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    storageBucket: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCyimEM7q4SDGzYg7WH4kwJdz-yM5bA9FI',
+    apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxx',
     appId: '1:755627002063:ios:3547628585f6e460024fba',
-    messagingSenderId: '755627002063',
+    messagingSenderId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     projectId: 'registre-a4b9e',
     databaseURL:
-        'https://registre-a4b9e-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'registre-a4b9e.appspot.com',
+        'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    storageBucket: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     iosBundleId: 'com.example.rescoff',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCyimEM7q4SDGzYg7WH4kwJdz-yM5bA9FI',
-    appId: '1:755627002063:ios:3547628585f6e460024fba',
-    messagingSenderId: '755627002063',
-    projectId: 'registre-a4b9e',
+    apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    appId: '1:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    messagingSenderId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    projectId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     databaseURL:
-        'https://registre-a4b9e-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'registre-a4b9e.appspot.com',
+        'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    storageBucket: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     iosBundleId: 'com.example.rescoff',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBKA14iVnA76nXba7HPULdRt7pgoujPHp8',
-    appId: '1:755627002063:web:dbc552397e74652d024fba',
-    messagingSenderId: '755627002063',
-    projectId: 'registre-a4b9e',
-    authDomain: 'registre-a4b9e.firebaseapp.com',
+    apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    appId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    messagingSenderId: '7xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    projectId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxe',
+    authDomain: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     databaseURL:
-        'https://registre-a4b9e-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'registre-a4b9e.appspot.com',
-    measurementId: 'G-HQZ1BRSNW6',
+        'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    storageBucket: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    measurementId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
   );
 }
